@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Pratik Raut
 
 <!--
 **pratikmraut/pratikmraut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me:
+I am a Third Year <b>Computer Science and Engineering</b> Student at Walchand College of Engineering, Sangli.<br>
+I am <b>Computer Science Enthusiast</b>.
+
 ### Skills:
-<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="55"> &nbsp;
+<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="50"> &nbsp;
 <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="45"> &nbsp;
 <img src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png" width="65"> &nbsp;
 <img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="45"> &nbsp;
