@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="45"> &nbsp;
 
 ### Reach Me
-<a href="https://https://www.linkedin.com/in/pratik-raut/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="35"></a> &nbsp;&nbsp; <a href="https://www.instagram.com/pratikmraut/"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" width="35"></a> &nbsp;&nbsp;
+<a href="https://https://www.linkedin.com/pratik-raut/" target="_blank">><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="35"></a> &nbsp;&nbsp; <a href="https://www.instagram.com/pratikmraut/" target="_blank">><img src="https://image.flaticon.com/icons/svg/174/174855.svg" width="35"></a> &nbsp;&nbsp;
