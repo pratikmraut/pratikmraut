@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me:
-I am a Third Year <b>Computer Science and Engineering</b> Student at Walchand College of Engineering, Sangli.<br>
-I am <b>Computer Science Enthusiast</b>.
+<b>I am a Third Year Computer Science and Engineering Student at Walchand College of Engineering, Sangli.<br>
+I am Computer Science Enthusiast</b>.
 
 ### Skills:
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="50"> &nbsp;
