@@ -27,4 +27,4 @@ I am Computer Science Enthusiast</b>.
 <img src="https://iconscout.com/icon/google-cloud-2038785" width="45"> &nbsp;
 
 ### Reach Me
-<a href="https://https://www.linkedin.com/pratik-raut/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="35"></a> &nbsp;&nbsp; <a href="https://www.instagram.com/pratikmraut/"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" width="35"></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pratik-raut/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="35"></a> &nbsp;&nbsp; <a href="https://www.instagram.com/pratikmraut/"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" width="35"></a> &nbsp;&nbsp;
