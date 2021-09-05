@@ -24,6 +24,7 @@ I am Computer Science Enthusiast</b>.
 <img src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png" width="65"> &nbsp;
 <img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="45"> &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="45"> &nbsp;
+<img src="https://imgr.search.brave.com/e_SEMzFsXHnSV-M_TolPtg07uoy49ftx4N4bkXzBHbk/fit/474/225/ce/1/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5C/OG92TWlRTjM4a2Jl/dS00eUswLVZBSGFI/YSZwaWQ9QXBp" width="45"> &nbsp;
 
 ### Reach Me
 <a href="https://www.linkedin.com/in/pratik-raut/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="35"></a> &nbsp;&nbsp; <a href="https://www.instagram.com/pratikmraut/"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" width="35"></a> &nbsp;&nbsp;
