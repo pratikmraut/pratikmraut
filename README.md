@@ -23,7 +23,7 @@ I am Computer Science Enthusiast</b>.
 <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="45"> &nbsp;
 <img src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png" width="65"> &nbsp;
 <img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="45"> &nbsp;
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="45"> &nbsp;
+<!-- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="45"> &nbsp; -->
 
 
 ### Reach Me
