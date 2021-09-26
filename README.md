@@ -36,4 +36,4 @@ Programmer.</b>
  
 
 ### Reach Me:
-<a href="https://www.linkedin.com/in/pratik-raut/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="35"></a> &nbsp;&nbsp; <a href="https://www.instagram.com/pratikmraut/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" width="37.5"></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pratik-raut/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="35"></a> &nbsp;&nbsp; <a href="https://www.instagram.com/pratikmraut/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" width="37"></a> &nbsp;&nbsp;
