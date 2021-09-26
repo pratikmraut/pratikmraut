@@ -22,7 +22,7 @@ Programmer.</b>
 ### Skills:
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="50"> &nbsp;
 <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="45"> &nbsp;
-<img src="https://cdn.cdnlogo.com/logos/j/89/java.svg" width="50"> &nbsp;
+<img src="https://cdn.cdnlogo.com/logos/j/89/java.svg" width="35"> &nbsp;
 <img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="45"> &nbsp;
 <img src="https://cdn.cdnlogo.com/logos/g/45/google-cloud.svg" width="50"> &nbsp;
 <img src="https://cdn.cdnlogo.com/logos/g/75/google-cloud.svg" width="50"> &nbsp;
