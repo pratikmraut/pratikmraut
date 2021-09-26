@@ -32,8 +32,10 @@ Programmer.</b>
 
 
 <!-- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="45"> &nbsp;
- <a href="https://cdnlogo.com/logo/amazon-web-services_2422.html"><img src="https://cdn.cdnlogo.com/logos/a/88/amazon-web-services.svg"></a> -->
+ 
+ -->
  
 
 ### Reach Me:
-<a href="https://www.linkedin.com/in/pratik-raut/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="35"></a> &nbsp;&nbsp; <a href="https://www.instagram.com/pratikmraut/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" width="35"></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pratik-raut/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="35"></a> &nbsp;
+<a href="https://www.instagram.com/pratikmraut/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" width="35"></a> &nbsp;
