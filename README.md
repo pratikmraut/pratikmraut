@@ -26,10 +26,13 @@ Programmer.</b>
 <img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="45"> &nbsp;
 <img src="https://cdn.cdnlogo.com/logos/g/45/google-cloud.svg" width="50"> &nbsp;
 <img src="https://cdn.cdnlogo.com/logos/g/75/google-cloud.svg" width="50"> &nbsp;
-<img src="https://cdn.cdnlogo.com/logos/a/19/aws.svg" width="50"> &nbsp;
+<img src="https://cdn.cdnlogo.com/logos/a/88/amazon-web-services.svg" width="50"> &nbsp;
 
 
-<!-- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="45"> &nbsp; -->
+
+
+<!-- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="45"> &nbsp;
+ <a href="https://cdnlogo.com/logo/amazon-web-services_2422.html"><img src="https://cdn.cdnlogo.com/logos/a/88/amazon-web-services.svg"></a> -->
 
 
 ### Reach Me:
