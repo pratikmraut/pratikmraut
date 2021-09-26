@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me:
-<b>I am a Third Year Computer Science and Engineering Student at Walchand College of Engineering, Sangli.<br>
-I am Computer Science Enthusiast</b>.
+<b>I am a Third Year Computer Science & Engineering Student at Walchand College of Engineering, Sangli.<br>
+I am Computer Science Enthusiast.</b>
+Programmer.</b>
 
 ### Skills:
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="50"> &nbsp;
@@ -26,5 +27,5 @@ I am Computer Science Enthusiast</b>.
 <!-- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="45"> &nbsp; -->
 
 
-### Reach Me
+### Reach Me:
 <a href="https://www.linkedin.com/in/pratik-raut/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="35"></a> &nbsp;&nbsp; <a href="https://www.instagram.com/pratikmraut/"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" width="35"></a> &nbsp;&nbsp;
