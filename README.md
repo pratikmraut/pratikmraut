@@ -26,7 +26,7 @@ Programmer.</b>
 <img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="45"> &nbsp;
 <img src="https://cdn.cdnlogo.com/logos/g/45/google-cloud.svg" width="50"> &nbsp;
 <img src="https://cdn.cdnlogo.com/logos/g/75/google-cloud.svg" width="50"> &nbsp;
-<img src="https://cdn.cdnlogo.com/logos/a/88/amazon-web-services.svg" width="100"> &nbsp;
+<img src="https://cdn.cdnlogo.com/logos/a/88/amazon-web-services.svg" width="110"> &nbsp;
 
 
 
