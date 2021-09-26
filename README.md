@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### About Me:
 <b>I am a Third Year Computer Science & Engineering Student at Walchand College of Engineering, Sangli.<br>
-I am Computer Science Enthusiast.</b>
+I am Computer Science Enthusiast.<br>
 Programmer.</b>
 
 ### Skills:
