@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 <img src="https://cdn.cdnlogo.com/logos/a/88/amazon-web-services.svg" width="110"> &nbsp;
 -->
 
-<a href="https://www.cprogramming.com/"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="40"> <a> &nbsp; 
-<a href="https://www.cppprogramming.com/"> <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="40"height="40"/> <a> &nbsp;
-<a href="https://docs.oracle.com/javase/7/docs/api/"> <img src="https://cdn.cdnlogo.com/logos/j/89/java.svg" width="40"height="40"> <a> &nbsp;
-<a href="https://www.python.org" > <img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="40"height="40"> <a> &nbsp;
-    <a href="https://cloud.google.com/"> <img src="https://cdn.cdnlogo.com/logos/g/45/google-cloud.svg" width="40"height="40"> <a> &nbsp;
-    <a href="https://cloud.google.com/" > <img src="https://cdn.cdnlogo.com/logos/g/75/google-cloud.svg" width="40"height="40"> <a> &nbsp;
-    <a href="https://aws.amazon.com/"><img src="https://cdn.cdnlogo.com/logos/a/88/amazon-web-services.svg" width="100"height="40"> <a> &nbsp;
-    <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"></a> &nbsp;
+<a href="https://www.cprogramming.com/"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="40"> </a> &nbsp; 
+<a href="https://www.cppprogramming.com/"> <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="40"height="40"> </a> &nbsp;
+<a href="https://docs.oracle.com/javase/7/docs/api/"> <img src="https://cdn.cdnlogo.com/logos/j/89/java.svg" width="40"height="40"> </a> &nbsp;
+<a href="https://www.python.org" > <img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="40"height="40"> </a> &nbsp;
+<a href="https://cloud.google.com/"> <img src="https://cdn.cdnlogo.com/logos/g/45/google-cloud.svg" width="40"height="40"> </a> &nbsp;
+<a href="https://cloud.google.com/" > <img src="https://cdn.cdnlogo.com/logos/g/75/google-cloud.svg" width="40"height="40"> </a> &nbsp;
+<a href="https://aws.amazon.com/"><img src="https://cdn.cdnlogo.com/logos/a/88/amazon-web-services.svg" width="100"height="40"> </a> &nbsp;
+<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"></a> &nbsp;
 
     
 ### Reach Me:
