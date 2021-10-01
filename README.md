@@ -14,26 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### About Me:
 <b>I am a Third Year Computer Science & Engineering Student at Walchand College of Engineering, Sangli.<br>
 I am Computer Science Enthusiast.<br>
-Programmer.</b>
+Programmer and Passionate Cloud ☁️ Learner</b>
 
 ### Skills:
+<!--- 
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="50"> &nbsp;
 <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="45"> &nbsp;
 <img src="https://cdn.cdnlogo.com/logos/j/89/java.svg" width="30"> &nbsp;
 <img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="45"> &nbsp;
 <img src="https://cdn.cdnlogo.com/logos/g/45/google-cloud.svg" width="50"> &nbsp;
 <img src="https://cdn.cdnlogo.com/logos/g/75/google-cloud.svg" width="50"> &nbsp;
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/a/88/amazon-web-services.svg" alt="aws" width="110" height="50"/> </a>  &nbsp;
+<img src="https://cdn.cdnlogo.com/logos/a/88/amazon-web-services.svg" width="110"> &nbsp;
+-->
 
+<p align="left">
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="aws" width="40"height="40"/> <a>
+    <a href="https://www.cppprogramming.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="aws" width="40"height="40"/> <a>
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/j/89/java.svg" alt="aws" width="40"height="40"/> <a>
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" alt="aws" width="40"height="40"/> <a>
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/g/45/google-cloud.svg" alt="aws" width="40"height="40"/> <a>
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/g/75/google-cloud.svg" alt="aws" width="40"height="40"/> <a>
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/a/88/amazon-web-services.svg" alt="aws" width="40"height="40"/> <a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
-<!-- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="45"> &nbsp;
- <img src="https://cdn.cdnlogo.com/logos/a/88/amazon-web-services.svg" width="110"> &nbsp;
- -->
+    
+</p>
+
  
-
 ### Reach Me:
 <a href="https://www.linkedin.com/in/pratik-raut/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="35"></a> &nbsp;
 <a href="https://www.instagram.com/pratikmraut/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" width="35"></a> &nbsp;
