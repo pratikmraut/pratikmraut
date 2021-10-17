@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 - I am a Third Year Computer Science & Engineering Student at Walchand College of Engineering, Sangli.<br>
 - I am Computer Science Enthusiast.<br>
 - Programmer and Cloud Computing ☁️ Learner
-![Link an image. ]("https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="40")
+
+
 
 ### Skills:
 <!--- 
+![Link an image. ]("https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png")
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="50"> &nbsp;
 <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="45"> &nbsp;
 <img src="https://cdn.cdnlogo.com/logos/j/89/java.svg" width="30"> &nbsp;
