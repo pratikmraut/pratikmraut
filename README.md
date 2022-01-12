@@ -50,7 +50,8 @@ Here are some ideas to get you started:
 <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"></a> &nbsp;
 
 </p>
---> 
+
 ### Reach Me:
 <a href="https://www.linkedin.com/in/pratik-raut/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="35"></a> &nbsp;
 <a href="https://www.instagram.com/pratikmraut/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" width="35"></a> &nbsp;
+--> 
