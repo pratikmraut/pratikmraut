@@ -1,10 +1,10 @@
 ### <div align="center">I'm Pratik, a full-time software developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently pursuing B. Tech from Walchand College of Engineering Sangli  
+- 🔭 Completed B. Tech from Walchand College of Engineering Sangli  
   
 
-- 🌱 I’m currently learning Software Development and Devops  
+- 🌱 I’m currently learning Software Development and DevOps  
   
 
 - ❓ Ask me about anything related to software development, devops and related technologies  
